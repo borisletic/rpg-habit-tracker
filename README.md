@@ -6,7 +6,7 @@ Android aplikacija za svakodnevno praćenje navika i postavljanje ciljeva po ugl
 1. Preuzeti projekat (git clone ili ZIP)
 
    ```bash
-   git clone https://github.com/borisletic/e2-ma-tim10-2025.git
+   git clone https://github.com/borisletic/rpg-habit-tracker.git
    ```
 3. Otvoriti projekat u Android Studio (File → Open)
 4. Sačekati da se Gradle sinhronizuje
